@@ -1,5 +1,5 @@
 # Othello
-## Othello with an AI opponent.
+## Othello with a minimax based opponent.
 
 ### Description
 Othello is a game that is played in a player vs. computer format. It is a two player game with each player having a colour (typically black and white), and the goal of the game is to finish with more tiles of your colour on the board than the tiles of your opponents colour.
